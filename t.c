@@ -1,7 +1,8 @@
 #include<stdio.h>
 int main ()
-{ printf ("hi");
-	return 0 :
+{ 
+	printf ("hi");
+	return 0;
 }
 
 
